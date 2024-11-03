@@ -1,0 +1,147 @@
+1,2,S,"�C�mo llegas a estas horas, Crit�n? �No es todav�a temprano?"
+2,3,C,"En efecto, es muy pronto."
+3,4,S,"�Qu� hora, aproximadamente?"
+4,5,C,La del alba.
+5,6,S,Me extra�a que el guardi�n de la c�rcel haya querido atenderte.
+6,7,C,"Ya es amigo m�o, S�crates, de tanto venir por aqu�, y adem�s, alg�n que otro favor se ha sacado tambi�n de m�."
+7,8,S,"�Llegas ahora, o llevas ya un rato aqu�?"
+8,9,C,Llevo bastante rato.
+9,10,S,"Entonces, �c�mo no me has despertado inmediatamente, en lugar de estarte ah� sentado en silencio?"
+10,11,C,"Por Zeus, S�crates, tampoco yo querr�a estar en tan gran desvelo y dolor. Sin embargo, hace rato que me admiro de ver cu�n dulcemente duermes. Y adrede no te despert�, para que pasases el tiempo lo m�s agradablemente posible. Sin duda, muchas veces durante toda la vida envidi� tu manera de ser, pero mucho m�s en la presente desgracia, al considerar con cu�nta facilidad y tranquilidad la soportas."
+11,12,S,"Sin duda, Crit�n, ser�a inoportuno indignarme, a mi edad, si es necesario morir ya"
+12,13,C,"Tambi�n otros de tu edad se ven inmersos en situaciones como �sta, pero en nada les libra la edad de no indignarse por su suerte."
+13,14,S,"As� es, pero �por qu� has venido tan pronto?"
+14,15,C,"Porque traigo una noticia terrible, S�crates. No para ti, a lo que veo, pero s� terrible y dura para m� y para todos tus amigos; por mi parte, no creo que pudiera recibir otra m�s dura."
+15,16,S,�Qu� noticia? �Acaso ha llegado ya la nave procedente de Delos a cuyo regreso es preciso que yo muera?
+16,17,C,"Todav�a no ha llegado, pero me parece a m� que llega hoy, seg�n lo que han dicho algunos que vienen de Sunion y la han dejado all�. Seg�n �stos, es evidente que la nave llega hoy y, por lo tanto, ser� forzoso, S�crates, que ma�ana pongas fin a tu vida."
+17,18,S,"Pues si as� agrada a los dioses, Crit�n, que as� sea en buena hora. Sin embargo, no creo que llegue hoy la nave."
+18,19,C,�De d�nde deduces eso?
+19,20,S,"Te lo voy a decir. De alguna manera, seg�n parece, yo he de morir al d�a siguiente de aquel en que llegue la nave."
+20,21,C,Por lo menos as� lo afirman los que tienen autoridad sobre estas cosas.
+21,22,S,"Pues bien, no creo que llegue hoy la nave, sino ma�ana. Me baso en cierto sue�o que he tenido esta noche, hace un momento. Y has sido muy oportuno al no despertarme."
+22,23,C,"Y bien, �qu� sue�o ha sido ese?"
+23,24,S,"Me parec�a que una mujer hermosa y de noble aspecto se me acercaba, vestida de blanco, y llam�ndome me dec�a: �S�crates, al tercer d�a llegar�s a la f�rtil Ft�a"""
+24,25,C,"Extra�o sue�o, S�crates."
+25,26,S,"Esclarecedor, a mi modo de ver, Crit�n."
+26,27-28-29,C,"Demasiado, seg�n parece. Pero, querido S�crates, aun as�, hazme caso y s�lvate. Para m�, si murieses, no ser�a una �nica desgracia, sino que "
+27,37,C,Me veria privado de un amigo como jam�s encontrar� otro 
+28,30,C,"Muchos de los que no nos conocen bien a ti y a m�, podr�an creer que, siendo capaz de salvarte, si hubiera querido gastar dinero, lo descuid�. Y ciertamente, �qu� fama ser�a m�s vergonzosa que �sta de parecer que se estima en m�s el dinero que a los amigos?"
+29,30,C,"La mayor�a no se convencer� de que t� mismo te negaste a salir de aqu�, a pesar de nuestros ruegos"
+30,31,S,�.
+31,32,S,"Pero, querido Crit�n, �qu� nos importa esa opini�n de los dem�s?. Pues los m�s honrados, de los que s� vale la pena preocuparse, considerar�n que esto ha sucedido tal y como ten�a que suceder"
+32,33,C,"Pero ves que es necesario, S�crates, preocuparse tambi�n de la opini�n de los dem�s. Pues estas cosas de ahora ponen de manifiesto que la mayor�a es capaz de llevar a cabo no s�lo los m�s peque�os males, sino quiz�s incluso los m�s grandes, contra aquel que haya incurrido en su odio."
+33,34,S,"Ojal�, Crit�n, la mayor�a fuera capaz de hacer los mayores males, para que tambi�n fuera capaz de realizar los mayores bienes. Eso ser�a magn�fico. Pero ahora no son capaces de hacer ninguna de las dos cosas; pues, no siendo capaces de hacer a otro ni sensato ni insensato, lo que hacen lo hacen al azar."
+34,35,C,"Pero, S�crates, dime �acaso temes por m� y por los dem�s amigos tuyos que, si t� sales de aqu�, los sicofantes nos causen alg�n da�o por haberte sacado, y que nos veamos obligados a perder toda nuestra fortuna o muchas riquezas o, incluso, a sufrir alg�n otro da�o adem�s de �stos? Pues, si temes algo de tal clase, olv�date de ello. Es justo que nosotros, de alguna manera, corramos este riesgo por salvarte y, si es necesario, aun otro mayor. Vamos, hazme caso y no obres de otro modo."
+35,36,C,Y �no ves que estos sicofantes son muy baratos y que no har�a falta mucho dinero para sobornarles. Yo creo que te bastar�a con mis riquezas.
+36,37,C,"Y, si quisieras ir a Tesalia, tengo all� amigos que te estimar�n en mucho y te procurar�n seguridad, de modo que nadie te moleste en Tesalia"
+37,38,S,No me convences
+38,39-40,C,"Me parece que intentas una acci�n que no es justa: entregarte, cuando puedes salvarte, y apresurarte a hacer contra ti cosas que s�lo tus enemigos procurar�an y de hecho han procurado, ansiando destruirte."
+39,41,C,"Me parece a m� que traicionas a tus propios hijos, a los que, si�ndote posible criarlos y educarlos, dejas abandonados al marchar; y, por tu parte, ellos har�n lo que la suerte les depare. Dispondr�n, como es natural, de aquellas cosas que se depara a los hu�rfanos en los orfanatos. As� pues, es necesario o no tener hijos o acarrear con el peso de su crianza y educaci�n, y a m� me parece que t� eliges lo m�s sencillo"
+40,41,C,"Adem�s, se ha de elegir lo que un hombre honrado y bueno elegir�a, al menos cuando uno afirma que se ha preocupado toda la vida de ejercitar la virtud. De manera que yo mismo me averg�enzo por ti y por nosotros, tus amigos, de que pueda parecer que todo este asunto en torno a ti se ha realizado con una cierta cobard�a por nuestra parte, tanto la comparecencia ante el tribunal - que, habi�ndose podido evitar, tuvo lugar- y el mismo proceso del juicio, como este final ciertamente absurdo. Y que parezca que nosotros - puesto que no te salvamos, ni t� a ti mismo- hemos rehuido este asunto por cierta incapacidad o por cierta cobard�a nuestra, cuando era posible y realizable si hubiese existido en nosotros un m�nimo inter�s por peque�o que fuese."
+41,42,C,"S�crates, ten presente esto, no sea que, al mismo tiempo que un da�o, sea tambi�n una deshonra para ti y para nosotros"
+42,43,S,"Amigo Crit�n, tu buena voluntad ser�a merecedora de mucha estima, si tuviera alguna rectitud; si no, cuanto mayor, tanto m�s enojosa. En fin, es necesario que nosotros consideremos si se ha de obrar as� o si no. Porque yo, ahora y siempre, he sido de tal condici�n que no he obedecido a ning�n otro de mis impulsos sino a la raz�n, la cual, examin�ndola, se me aparece como la mejor."
+43,75,S,"Los razonamientos que dec�a anteriormente no soy capaz ahora de desecharlos, una vez que me ha venido esta adversidad; es m�s, de alg�n modo me siguen pareciendo iguales, y honro y respeto los mismos razonamientos que antes. Si no somos capaces de exponer ahora otros mejores que aquellos, has de saber que no ceder� ante ti, ni aunque la fuerza de la mayor�a nos asuste, como se asusta con duendes a nuestros ni�os, imponi�ndonos prisi�n, muerte y privaci�n de bienes. �C�mo podr�amos examinar eso m�s adecuadamente?"
+44,45,S,"Veamos, en primer lugar, si retomamos el razonamiento respecto a las opiniones de los hombres. �Ten�amos raz�n o no, cuando dec�amos que se ha de prestar atenci�n a unas opiniones y a otras no? �o es que antes de que yo debiera morir estaba bien dicho y ahora, por el contrario, resulta que lo dec�amos en vano, por hablar, y eran en realidad ni�er�as y chiquiller�as?"
+45,46,S,"Deseo vivamente, Crit�n, examinar contigo si este razonamiento me parece diferente en algo, cuando me encuentro en esta situaci�n, o es el mismo, y si lo hemos de dejar correr o lo hemos de seguir"
+46,47,S,"Seg�n creo, dicen los que se consideran entendidos poco m�s o menos lo que dec�a yo hace un momento, que, de entre las opiniones que los hombres manifiestan, debemos estimar unas en mucho y otras no."
+47,48,S,"Esto, Crit�n, �por los dioses!, �no te parece que est� bien dicho? Pues t�, seg�n la previsi�n humana, est�s libre de tener que morir ma�ana, y la presente desgracia no te va a ofuscar. Exam�nalo. �No te parece que se ha dicho suficientemente que no se deben estimar todas las opiniones de los hombres, sino unas s� y otras no, y tampoco las de todos, sino las de unos s� y las de otros no? �Qu� dices? �No est� bien dicho esto?"
+48,49,C,Est� bien dicho.
+49,50,S,�Y no es verdad que hay que estimar las buenas y no las malas?
+50,51,C,S�.
+51,52,S,�Las buenas no son las de los sensatos y las malas las de los insensatos?
+52,53,C,�C�mo no?
+53,54,S,"Veamos qu� es lo que se quer�a decir con todo esto. Un hombre que se ejercita haciendo gimnasia, �presta atenci�n a la alabanza, la censura y la opini�n de cualquier hombre, o a la de uno solo, la del m�dico o entrenador?"
+54,55,C,A la de uno solo.
+55,56,S,"Por consiguiente, ha de temer los reproches y recibir con agrado las alabanzas de uno solo, y no las de la mayor�a."
+56,57,C,Es evidente
+57,58,S,"As� pues, ha de obrar y ejercitarse, y comer y beber seg�n la opini�n de �se solo, del que le gu�a y es entendido, y no seg�n las opiniones de todos los dem�s."
+58,59,C,As� es.
+59,60,S,"Bien. Si no obedece a �se y menosprecia su opini�n y sus alabanzas y, por el contrario, estima las palabras de la mayor�a, que no entiende nada, �no sufrir� alg�n da�o?"
+60,61,C,�C�mo no?
+61,62-63,S,"�Qu� da�o es �ste, y a qu� afecta? �a qu� parte del que no ha hecho caso?"
+62,64,C,Cuerpo
+63,61,C,Alma
+64,65,S,"Dices bien. Lo mismo ocurre, Crit�n, con las dem�s cosas, para no ir enumer�ndolas todas. As� sucede tambi�n respecto a lo justo y lo injusto, lo innoble y lo noble, lo bueno y lo malo, asuntos que son el objeto de nuestra actual discusi�n. �Debemos nosotros seguir la opini�n de la mayor�a y temerla, o la de uno solo que entienda, si lo hay, al cual es necesario respetar y temer m�s que a todos los dem�s juntos? Si no seguimos a �ste, da�aremos y destruiremos aquello que se mejoraba con lo justo y se destru�a con lo injusto. �No es as�?"
+65,66,C,"Yo al menos, as� lo creo, S�crates."
+66,67,S,"En fin, si lo que se mejora por medio de lo sano y se destruye por lo enfermo, lo destruimos por obedecer la opini�n de los que no entienden, �nos es posible vivir una vez destruido eso? Y, de alguna manera, hablamos del cuerpo �no?"
+67,68,C,S�
+68,69,S,�Nos es posible vivir con un cuerpo m�sero y corrupto?
+69,70,C,De ning�n modo
+70,71,S,"Entonces, �podemos vivir estando destruido aquello a lo que la injusticia da�a y la justicia beneficia? �o consideramos que es de menos valor que el cuerpo aquella parte de nosotros mismos en cuyo entorno est�n la injusticia y la justicia?"
+71,72,C,De ning�n modo.
+72,73,S,"Por tanto, �es m�s estimable?"
+73,74,C,Sin duda que mucho m�s.
+74,76,S,"Entonces, querido amigo, no debemos preocuparnos mucho de lo que diga la mayor�a, sino de lo que diga el entendido en lo justo e injusto; s�lo �l y la verdad deben preocuparnos. De manera que, en primer lugar, no juzgas rectamente al considerar que debemos preocuparnos de la opini�n de la mayor�a respecto a lo justo, lo noble y lo bueno, y sus contrarios. Aunque, sin duda, podr�a decir alguno que la mayor�a es capaz de condenarnos a muerte."
+75,44,S,Escoger lo que dice el m�s sabio en su area
+76,77,S,"Reflexiona, adem�s, si permanece o no para nosotros el razonamiento de que no hay que considerar lo m�s importante el vivir, sino el vivir coherentemente."
+77,78,C,Por supuesto que permanece.
+78,79,S,"Y que el vivir coherentemente, con honestidad y con justicia, son una misma cosa, �lo mantenemos o no?"
+79,80,C,Lo mantenemos
+80,81,S,"Por consiguiente, debemos examinar esto a partir de lo acordado, si es justo que yo intente salir de aqu�, no dej�ndome libre los atenienses, o si no es justo. Si nos parece que es justo, intent�moslo, pero si no, dej�moslo"
+81,82,S,"Y si resulta que obramos de forma injusta, no es necesario ya tener en cuenta si hemos de morir, permaneciendo aqu� y soport�ndolo con tranquilidad, o sufrir cualquier otra adversidad, antes que obrar injustamente."
+82,83,S,"Mira si te parece que est� bien establecido el principio del razonamiento, e intenta responder como mejor creas a mis preguntas."
+83,84,C,Lo intentar�.
+84,85-86,S,"�Afirmamos que en ning�n caso se ha de obrar injustamente de forma voluntaria? �o en ciertos casos s� y en otros no? �o de ning�n modo el obrar injustamente es bueno y noble, como hemos convenido en otras muchas ocasiones anteriores? �es como lo dec�amos nosotros entonces, lo afirme o lo niegue la mayor�a y, aunque sea necesario que nosotros suframos cosas mejores o peores que �stas, cometer injusticia es, en cualquier caso, malo y vergonzoso para el que la comete? �lo afirmamos o no?"
+85,87,C,"Si, nunca obrar injustamente"
+86,84,C,"No, a veces hay que obrar injustamente"
+87,88,S,"Entonces, de ning�n modo se ha de obrar injustamente."
+88,89,S,"Luego, ni siquiera el que es tratado injustamente ha de devolver mal por mal, como piensa la mayor�a, ya que de ninguna manera se ha de obrar injustamente"
+89,90,C,Es evidente que no.
+90,91,S,"Por tanto, Crit�n, �se debe hacer el mal, o no?"
+91,92,C,"Sin duda que no es conveniente, S�crates"
+92,93,S,"�Y es justo, como dice la mayor�a, que el que sufre alg�n mal responda con nuevos males, o no?"
+93,94,C,De ning�n modo
+94,95,S,Pues sin duda el hacer mal a los hombres no difiere en nada del ser injusto
+95,96,C,Dices la verdad
+96,97,S,"Luego, ni se ha de responder a la injusticia ni se ha de hacer da�o a ning�n hombre, cualquiera que sea el mal que de �l se reciba"
+97,98,S,"Las cosas que alguien ha convenido con otro que son justas, �se han de hacer o se han de burlar?"
+98,99,C,Se han de hacer.
+99,100-105,S,"Reflexiona a partir de esto. Si salimos de aqu� nosotros sin haber persuadido a la ciudad, �hacemos da�o a alguien, y precisamente a quien menos se debe, o no?"
+100,106,S,Soy esclavo de las leyes
+101,139,S,Hijos
+102,130,S,Pude haberme exiliado
+103,118,S,Amo la ciudad
+104,134,S,Mis amigos
+105,135,S,Ciudades extranjeras
+106,107,S,"Consid�ralo del modo siguiente. Si a nosotros que tenemos la intenci�n de escapar de aqu�, o como sea conveniente nombrar a esto, llegaran las leyes y el estado y, coloc�ndose delante, nos preguntaran: �Dime, S�crates, �qu� tienes proyectado hacer? �No es cierto que, con esta acci�n que intentas, proyectas destruirnos a nosotras las leyes y a toda la ciudad, en lo que de ti depende? �Te parece a ti posible que pueda a�n existir sin arruinarse una ciudad en la que los juicios que se producen no tienen ning�n poder, sino que son destruidos por particulares y resultan nulos?�"
+107,108,S,�Acaso les diremos: �La ciudad nos ha tratado injustamente y no ha realizado el juicio correctamente�? �Les diremos esto o qu�?
+108,109,C,"Esto, por Zeus, S�crates."
+109,110,S,"Y qu� dir�amos, si las leyes dijeran: �S�crates, �es esto lo que convinimos t� y nosotras, o m�s bien convinimos permanecer fieles en las decisiones judiciales que la ciudad determinase?� Si nos extra��semos de sus palabras, quiz�s dijeran: �S�crates, no te extra�es de nuestras palabras y responde, t� que tan acostumbrado est�s a servirte de preguntas y respuestas. Vamos a ver, �qu� acusaci�n tienes contra nosotras y contra la ciudad para intentar destruirnos?"
+110,111,L,"En primer lugar, �no te dimos nosotras la vida y, por medio de nosotras, despos� tu padre a tu madre y te engendr�? Di, �tienes algo que reprochar a las leyes que se refieren al matrimonio?� �No tengo nada que reprecharles�, dir�a yo"
+111,112,L,"��Y a las que se refieren a la crianza de los hijos y a la educaci�n, en la cual t� tambi�n has sido educado? �acaso no dispon�an bien aquellas de nosotras establecidas para ello, recomendando a tu padre que te educase en la m�sica y en la gimnasia?�"
+112,113,S,"�S�, afirmar�a yo."
+113,114,L,"�Entonces, si gracias a nosotras naciste, fuiste criado y educado, �podr�as decir, en principio, que no eras resultado de nosotras y esclavo nuestro, t� y tus progenitores? Y si es as�, �crees que tenemos los mismos derechos? �Y es justo que t� nos hagas lo mismo que nosotras intentamos hacerte?"
+114,115,C,�Por qu�?
+115,116,L,"Pues, tus derechos no ser�an iguales respecto a tu padre y a tu due�o, si lo tuvieras, de manera que pudieras responderles haci�ndoles lo mismo que ellos te hicieran, insultando si fueras insultado, golpeando si fueras golpeado, y otras muchas cosas de este estilo."
+116,117,L,"�Te ser�a posible, en cambio, obrar con respecto a la patria y a las leyes de manera que, si nosotras nos proponemos matarte, considerando que es justo, t� intentes, en la medida de tus fuerzas, destruirnos a nosotras, las leyes, y a la patria, y afirmes que, al hacer esto, haces algo justo t�, que en verdad te ocupas de ejercitar la virtud?"
+117,133,L,"�Acaso eres tan sabio que se te escapa que merece la patria m�s honor que la madre, el padre y todos los antepasados, y que es m�s venerable y m�s sagrada y digna de la mayor estima entre los dioses y entre los hombres de juicio; y que hay que respetar y obedecer y halagar m�s a la patria, si se irrita, que al padre; y que hay que persuadirla u obedecerla en lo que ella mande; y que, si manda sufrir algo, hay que soportarlo con mansedumbre, ya sea ser azotado como ser encarcelado, o ir a la guerra para ser herido o morir; y que hay que hacer esto porque es lo justo; y que no hay que ceder, ni retroceder, ni abandonar el puesto de batalla, sino que, incluso en la guerra y en la c�rcel, y en todo lugar, hay que hacer lo que mande la patria y la ciudad, o persuadirla de lo que es justo por naturaleza; y que no es piadoso maltratar a la madre y al padre, pero menos piadoso aun es maltratar a la patria?�"
+118,119,L,"Examina, adem�s, S�crates, si es verdad esto que decimos, que no es justo que trates de hacernos lo que ahora intentas. Nosotras te hemos engendrado, criado y educado, y te hemos hecho part�cipe de todos los bienes que hemos podido, a ti y a todos los dem�s ciudadanos y, a pesar de esto, declaramos p�blicamente que cualquier ateniense que lo desee, despu�s de que haya alcanzado la ciudadan�a y haya conocido los asuntos p�blicos y a nosotras, las leyes, si no le satisfacemos, puede libremente coger sus cosas y marcharse adonde quiera"
+119,120,L,"Y ninguna de nosotras, las leyes, es obst�culo ni se opone a que, si alguno de vosotros quiere marcharse a una colonia, si no somos de su gusto ni nosotras ni la ciudad, o si quiere irse a otra parte y vivir en el extranjero, se vaya donde le plazca, llev�ndose lo suyo."
+120,121,L,"S�crates, grandes son las pruebas que tenemos de que �ramos de tu agrado nosotras y la ciudad; pues, no te habr�as quedado en ella m�s que cualquier otro ateniense, si no te hubiese gustado �sta sobre todo; nunca te has ausentado de ella ni para ir a una fiesta, excepto una vez al Istmo, ni has ido a ning�n otro sitio, a no ser en alguna expedici�n militar; ni hiciste jam�s ning�n viaje, como los dem�s; ni tuviste deseo de conocer otras ciudades y otras leyes, sino que nosotras y nuestra ciudad fuimos suficiente para ti. Tan plenamente nos elegiste y estuviste de acuerdo en vivir como ciudadano seg�n nosotras, que incluso tuviste tus hijos aqu�, sin duda porque te agradaba la ciudad."
+121,122,L,"Y aquel de vosotros que se quede, sabiendo de qu� manera nosotras hacemos justicia y administramos la ciudad en los dem�s aspectos, afirmamos que �ste, de hecho, est� de acuerdo con nosotras en hacer lo que nosotras ordenamos"
+122,123-124-125-126-127,L,"Y decimos, si no obedece, que es tres veces culpable:"
+123,128,L,"porque no nos obedece a nosotras, que somos sus progenitoras"
+124,128,L,Porque le hemos criado
+125,128,L,"habiendo estado de acuerdo con nosotras en obedecernos, ni nos obedece ni nos persuade si
+no hacemos bien alguna cosa"
+126,122,L,Por egoista
+127,122,L,Por creerse juez y verdugo
+128,129,L,"A pesar de que nosotras proponemos hacer lo que ordenamos y no lo imponemos por la fuerza, sino que permitimos una opci�n entre dos, persuadirnos u obedecernos, y no cumple ninguna de las dos el que no obedece."
+129,133,L,"As� que tu eres el ateniense que m�s a estado de acuerdo con nosotras, "
+130,131,L,"Pues bien, te hubiera sido posible, en este mismo proceso, pedir para ti el destierro, si hubieras querido, y lo que ahora intentas contra la voluntad de la ciudad, entonces lo habr�as hecho con su consentimiento"
+131,132,L,"Entonces t� te vanagloriabas de que no te enojar�as, si era preciso morir, y eleg�as, seg�n afirmabas, la muerte antes que el destierro. Ahora, por el contrario, ni respetas aquellas palabras, ni te preocupas de nosotras, las leyes; intentas destruirnos y haces lo que el esclavo m�s ruin har�a, al procurar escaparte en contra de los pactos y los acuerdos seg�n los cuales acordaste con nosotras vivir como ciudadano."
+132,140,L,"T�, con obras, y no con palabras, estuviste de acuerdo en vivir como ciudadano seg�n nosotras"
+133,140,L,"Pues no violas otra cosa, dir�an, sino los pactos y los acuerdos que con nosotras mismas hiciste, no por necesidad ni habiendo sido enga�ado ni obligado a decidir en poco tiempo, sino en setenta a�os, en los que te fue posible ir a otro lugar, si no te agrad�bamos o no te parec�an justos los acuerdos. Sin embargo, t� no preferiste ni Lacedemonia ni Creta, las cuales siempre dices que est�n bien gobernadas, ni tampoco ninguna otra ciudad griega ni b�rbara, sino que de �sta has estado ausente menos que los cojos, los ciegos y los dem�s lisiados. De este modo, es evidente que la ciudad y nosotras, las leyes, te agrad�bamos m�s a ti que a los dem�s atenienses. �A qui�n le agradar�a una ciudad sin leyes? �No vas a permanecer fiel ahora a lo acordado? S� nos obedecer�s, S�crates, y as� no quedar�s en rid�culo march�ndote de la ciudad."
+134,140,L,"Si violas estos acuerdos y delinques en algo de esto, �qu� bien te producir�s a ti mismo o a tus amigos? Pues, es poco m�s o menos evidente que tambi�n tus amigos corren el riesgo de ser desterrados y de ser privados de la ciudadan�a, o de perder sus bienes."
+135,136,L,"Si vas a alguna de las ciudades m�s pr�ximas, a Tebas o a Megara, pues ambas est�n bien regidas, llegar�s, S�crates, como enemigo de su r�gimen pol�tico, y cuantos se preocupan de sus propias ciudades te mirar�n con recelo, consider�ndote destructor de las leyes, y as� confirmar�s la opini�n de los jueces, de manera que parecer� que su sentencia fue justa; pues, el que es destructor de las leyes, f�cilmente parecer�a tambi�n que es corruptor de j�venes y de hombres insensatos."
+136,137,L,"Y haciendo esto, �valdr� la pena vivir? O te acercar�s y tendr�s la desverg�enza de dialogar con ellos, pero �con qu� razonamientos, S�crates? �Acaso con los mismos de aqu�, que la virtud y la justicia son lo m�s estimable para los hombres, as� como las costumbres y las leyes? �No crees que parecer� vergonzosa la conducta de S�crates? Hay que creer que s�"
+137,138,L,"�O bien te alejar�s de estos lugares y te ir�s a Tesalia con los hu�spedes de Crit�n? All� sin duda hay mucho libertinaje y desenfreno, y quiz�s les guste o�rte de qu� modo tan gracioso huiste de la c�rcel, poni�ndote un disfraz, o envuelto en una piel o usando cualquier otro m�todo habitual para los fugitivos, cambiando adem�s tu apariencia exterior."
+138,140,L,"�No habr� nadie que pregunte por qu� un hombre viejo, al que le queda poco tiempo de vida, como es natural, tuvo el descaro de desear vivir tan tenazmente, violando las leyes m�s importantes? Quiz�s no, si no ofendes a nadie. En caso contrario, oir�s muchas cosas indignas de ti. Ciertamente, vivir�s adulando a todos y siendo su esclavo; pues, �qu� har�s all� sino darte a la buena vida como si hubieras viajado a Tesalia para ir a un banquete? �D�nde se nos quedar�n aquellos razonamientos acerca de la justicia y las restantes formas de virtud?"
+139,140,L,"Pero, �es a causa de tus hijos por lo que quieres vivir, para criarlos y educarlos? �C�mo? �Llev�ndotelos a Tesalia los vas a criar y a educar all�, haci�ndolos extranjeros para que tambi�n obtengan de ti ese beneficio? �O no es eso, sino que educ�ndose aqu� se van a criar y a educar mejor, si t� est�s vivo, aunque no est�s t� con ellos? Ciertamente, tus amigos se ocupar�n de ellos. �Es que se preocupar�n de ellos si partes hacia Tesalia, y si vas al Hades, no? Si, en efecto, existe alguna deuda de los que afirman que son tus amigos, es necesario creer que s� que los cuidar�n."
+140,141,L,"En fin, S�crates, obed�cenos a nosotras, que te hemos criado, y ni a tus hijos ni a tu vida ni a ninguna otra cosa estimes en m�s que a la justicia, para que, al llegar al Hades, puedas alegar en tu defensa esto ante los que all� gobiernan."
+141,142,L,"Pues aqu�, es evidente que obrar de tal modo ni para ti ni para ninguno de los tuyos es mejor, ni m�s justo ni m�s piadoso, ni tampoco ser� mejor cuando llegues all�. Si te marchas ahora, te vas habiendo sido condenado injustamente no por nosotras, las leyes, sino por los hombres."
+142,143,L,"En cambio, si huyes de forma tan vergonzosa, devolviendo injuria por injuria, mal por mal, habiendo quebrantado tus acuerdos y tus pactos con nosotras, y habiendo hecho da�o a los que menos conviene, a ti mismo, a tus amigos, a la patria y a nosotras, entonces nosotras, mientras vivas, estaremos irritadas contigo, y all�, en el Hades, nuestras hermanas las leyes no te recibir�n bien, sabiendo que intentaste destruirnos en la medida de tus fuerzas."
+143,144,L,"Vamos, que no te convenza Crit�n a hacer lo que dice m�s que nosotras."
+144,145,S,"Has de saber, querido amigo Crit�n, que yo creo o�r esto, como los coribantes creen o�r las flautas, y en m� retumba el eco de estas palabras y hace que no pueda o�r las dem�s. Y adem�s, al menos en lo que por ahora a m� me parece bien, si dices algo en contra, hablar�s en vano. Sin embargo, si crees que puedes conseguir algo m�s, habla"
+145,146,C,"No tengo nada m�s que decir, S�crates."
+146,147,S,"Bien, Crit�n, obremos as�, puesto que as� lo aconseja la divinidad."

@@ -1,0 +1,166 @@
+.container {
+  display: flex;
+  width: 80vw;
+  height: 80vh;
+  margin: auto;
+  padding-top: 4vh;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 1s ease-in-out;
+  align-items: center;
+  justify-content: center;
+}
+
+.dialogue-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-height: 100%;
+}
+
+.dialogue-history {
+  width: 30vw;
+  flex: 8;
+  overflow-y: scroll; 
+  margin-bottom: 5vh;
+  background-color: #cfb58e;
+  border: 2px solid #832205;
+  border-radius: 8px;
+  text-align: left;
+  padding: 2% 1%;
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+}
+
+.dialogue-history::-webkit-scrollbar {
+  display: none;  
+}
+
+.dialogue
+{
+  padding-bottom: 2.2vh;
+}
+
+.hidden-word {
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out; 
+}
+
+.visible-word {
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out; 
+}
+
+.dialogue-options-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex: 2; 
+  padding-top: 1vh;
+}
+
+.dialogue-options {
+  display: flex;
+  gap: 10vw;
+}
+
+.dialogue-options button {
+  font-size: 1em;
+  height: 50%;
+  background-color: #914e01;
+  color: #e0c07a;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px solid #572000;
+}
+
+.dialogue-history strong {
+  color: #965a00;
+}
+
+
+.dialogue-options button:hover {
+  background-color: #802f00;
+}
+
+.start-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 15%;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+  padding: 15px 30px;
+  font-size: 32px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  border: none;
+  background-color: #5a2502;
+  color: #d1b7aa;
+  border-radius: 5px;
+  transition: background-color 1s ease;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+button:hover {
+  background-color: #572000;
+}
+
+/* Dialogue options container for vertical alignment */
+.dialogue-options-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em; /* Adds space between each option */
+  width: 100%;
+}
+
+/* Dialogue option buttons styling */
+.dialogue-options-vertical button {
+  font-size: 1em;
+  background: none;
+  color: #914e01;
+  text-align: left;
+  padding: 0.5em 0 0.5em 1em; /* Added padding on the left for spacing */
+  border: none;
+  border-left: 3px solid #914e01;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.dialogue-options-vertical button:hover {
+  color: #e0c07a;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .container {
+    width: 90vw;
+    height: 90vh;
+  }
+
+  .dialogue-history {
+    width: 80vw;
+  }
+
+  .dialogue-options-container {
+    padding-top: 2vh;
+  }
+}

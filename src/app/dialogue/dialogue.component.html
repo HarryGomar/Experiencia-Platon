@@ -1,0 +1,28 @@
+<div class="start-container" *ngIf="!experienceStarted">
+  <button class="button-start"  (click)="startDialogue()"> Comenzar </button>
+</div>
+
+<div class="container" *ngIf="experienceStarted" [ngClass]="{'fade-in': experienceStarted}">
+  
+  <div class="dialogue-container">
+    <div class="dialogue-history" #dialogueHistoryContainer>
+      <div *ngFor="let entry of animatedText" class="dialogue">
+        <strong>{{ entry.speaker }}:</strong>
+        <span *ngFor="let word of entry.words; let i = index" [ngClass]="{'visible-word': entry.visibleWords[i], 'hidden-word': !entry.visibleWords[i]}">
+          {{ word }}
+        </span>
+      </div>
+
+      <div class="dialogue-options-container">
+        <div class="dialogue-options-vertical">
+          <button (click)="selectOption(option.id)" *ngFor="let option of nextNodes">
+            {{ option.text }}
+          </button>
+        </div>
+      </div>    
+    </div>
+
+</div>
+
+
+
